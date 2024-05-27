@@ -145,6 +145,13 @@ body {
   }
 }
 
+.bg-bg-img-1 {
+  background-image: url('/travel-app/public/img-1.png')
+}
+
+.bg-bg-img-2 {
+  background-image: url('/travel-app/public/img-2.png')
+}
 /* Hide scrollbar for Chrome, Safari and Opera */
 .hide-scrollbar::-webkit-scrollbar {
   display: none;
